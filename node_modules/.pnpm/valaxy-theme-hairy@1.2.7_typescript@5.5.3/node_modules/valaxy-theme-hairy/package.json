@@ -1,0 +1,42 @@
+{
+  "name": "valaxy-theme-hairy",
+  "version": "1.2.7",
+  "packageManager": "pnpm@8.15.8",
+  "author": {
+    "email": "wwu710632@gmail.com",
+    "name": "Hairyf",
+    "url": "https://www.hairy.blog/"
+  },
+  "homepage": "http://hairy.blog/posts/theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hairyf/valaxy-theme-hairy-next"
+  },
+  "keywords": [
+    "valaxy",
+    "theme",
+    "starter",
+    "vue"
+  ],
+  "main": "client/index.ts",
+  "types": "types/index.d.ts",
+  "dependencies": {
+    "@docsearch/css": "^3.6.0",
+    "@iconify-json/ant-design": "^1.1.16",
+    "@iconify-json/fluent": "^1.1.59",
+    "@iconify-json/material-symbols": "^1.1.84",
+    "@iconify-json/simple-icons": "^1.1.109",
+    "@intlify/shared": "9.13.1",
+    "@overlastic/vue": "^0.4.7",
+    "element-plus": "^2.7.7",
+    "furigana-markdown-it": "^1.0.3",
+    "pinia": "^2.1.7",
+    "swiper": "^11.1.5"
+  },
+  "devDependencies": {
+    "valaxy": "^0.19.2",
+    "valaxy-addon-algolia": "^0.0.3",
+    "valaxy-addon-meting": "^0.1.3",
+    "valaxy-addon-waline": "^0.2.0"
+  }
+}

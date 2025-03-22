@@ -1,0 +1,23 @@
+# 你可以像这样自定义 i18n
+intro:
+  desc: Valaxy 模版
+  hi: 你好，Valaxy
+
+Notes: 笔记
+Standard: 最佳实践
+Valaxy Theme Hairy: 主题
+Music theory: 乐理
+Kemper: 吉他效果器 (Kemper)
+Client: 前端
+Server: 后端
+BlockChain: 区块链
+Guitar: 电吉他
+Interview: 八股文
+Git: 版本控制系统(Git)
+Music: 音乐
+Uncategorized: 未分类
+Daily: 日常
+
+guitar: 吉他
+blog: 博客
+daily: 日常
