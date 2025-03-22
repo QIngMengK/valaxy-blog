@@ -33,18 +33,6 @@ export default defineSiteConfig({
       color: '#6e5494',
     },
     {
-      name: '网易云音乐',
-      link: 'https://music.163.com/#/user/home?id=293486586',
-      icon: 'i-ri-netease-cloud-music-line',
-      color: '#C20C0C',
-    },
-    {
-      name: '知乎',
-      link: 'https://www.zhihu.com/people/mao-mao-47-99-46',
-      icon: 'i-ri-zhihu-line',
-      color: '#0084FF',
-    },
-    {
       name: '哔哩哔哩',
       link: 'https://space.bilibili.com/1784222941?spm_id_from=333.1007.0.0',
       icon: 'i-ri-bilibili-line',

@@ -44,7 +44,7 @@ export default defineConfig<ThemeConfig>({
       },
     ],
     footer: {
-      since: 2016,
+      since: 2024,
       beian: {
         enable: false,
       //  icp: '苏ICP备xxxxxx号',
