@@ -6,6 +6,8 @@ tags:
   - Js
 top: 0
 ---
+
+
 ## JavaScript 输出
 JavaScript 没有任何打印或者输出的函数
 
