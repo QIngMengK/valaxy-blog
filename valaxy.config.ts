@@ -39,7 +39,7 @@ export default defineConfig<ThemeConfig>({
       },
       {
         text: 'Github',
-        link: 'https://github.com/hairyf',
+        link: 'https://github.com/QIngMengK',
         icon: 'i-ri-github-fill',
       },
     ],
